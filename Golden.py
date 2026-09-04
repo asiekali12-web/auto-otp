@@ -12,9 +12,9 @@ def home(): return "Bot is alive!"
 def run_flask(): app.run(host='0.0.0.0', port=8080)
 
 # --- Bot Configuration ---
-API_TOKEN = '8784926429:AAEr77qoSzhNC9uos9277nrxOOHcthMzN-0'
-OWNER_ID = 6738268096
-GROUP_CHAT_ID = "@EarnMaster009"
+API_TOKEN = '8041389424:AAHqYWiblmuioOdBWoJf0-M9JcC0icYi8t0'
+OWNER_ID = 7047323497
+GROUP_CHAT_ID = "@GoldenOTPGroup"
 
 bot = telebot.TeleBot(API_TOKEN)
 
